@@ -107,10 +107,9 @@ public class DataHadler {
     return jobList;
   }
   
-  public static void main(String args[]){
+  public static void main(String args[]){ 
     DataHadler handler = new DataHadler();
-    //handler.insertIntoVideoData("tae", "taeyang0331-640.mp4", "태양의 후예 - 0331", "0331");
-    //handler.insertIntoJoblist("news", "KBS 9시 뉴스", "0123456");
+   
     handler.findJoblist();
   }
 }
