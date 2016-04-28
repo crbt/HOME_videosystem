@@ -1,0 +1,8 @@
+DAILY=news
+SUN=
+MON=bi
+TUE=dae
+WED=taeyang
+THU=taeyang
+FRI=
+SAT=
